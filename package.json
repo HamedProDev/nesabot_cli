@@ -20,10 +20,10 @@
   },
   "license": "MIT",
   "author": "Hamed Hussein",
-  "type": "javaScript",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node nesachat.js"
   },
   "dependencies": {
     "colors": "^1.4.0",

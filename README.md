@@ -1,4 +1,4 @@
-# NesaChatBot CLI
+# NesaBot CLI
 
 A simple, colorful **AI chatbot for the terminal**, powered by **OpenRouter** and built with Node.js.
 

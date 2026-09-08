@@ -28,6 +28,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "i": "^0.3.7",
+    "ollama": "^0.6.3",
     "readline-sync": "^1.4.10"
   }
 }

@@ -1,6 +1,7 @@
 {
   "name": "nesachatbot",
   "version": "1.0.0",
+  "type": "module",
   "description": "A Nesa Chatbot powered by ChatGpt",
   "keywords": [
     "ai",
@@ -20,16 +21,13 @@
   },
   "license": "MIT",
   "author": "Hamed Hussein",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "start": "node nesachat.js"
   },
   "dependencies": {
     "colors": "^1.4.0",
-    "dotenv": "^17.4.2",
     "i": "^0.3.7",
-    "openai": "^7.10.0",
     "readline-sync": "^1.4.10"
   }
 }
